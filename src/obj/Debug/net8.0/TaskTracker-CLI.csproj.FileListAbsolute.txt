@@ -1,0 +1,6 @@
+/workspaces/TaskTracker-CLI/src/obj/Debug/net8.0/TaskTracker-CLI.csproj.AssemblyReference.cache
+/workspaces/TaskTracker-CLI/src/obj/Debug/net8.0/TaskTracker-CLI.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TaskTracker-CLI/src/obj/Debug/net8.0/TaskTracker-CLI.AssemblyInfoInputs.cache
+/workspaces/TaskTracker-CLI/src/obj/Debug/net8.0/TaskTracker-CLI.AssemblyInfo.cs
+/workspaces/TaskTracker-CLI/src/obj/Debug/net8.0/TaskTracker-CLI.csproj.CoreCompileInputs.cache
+/workspaces/TaskTracker-CLI/src/obj/Debug/net8.0/TaskTracker-CLI.sourcelink.json
