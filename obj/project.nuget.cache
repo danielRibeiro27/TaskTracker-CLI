@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "yqoGDbpPMzk=",
+  "dgSpecHash": "xytJ/j9UCXY=",
   "success": true,
-  "projectFilePath": "/workspaces/TaskTracker-CLI/TaskTracker-CLI.csproj",
+  "projectFilePath": "/home/runner/work/TaskTracker-CLI/TaskTracker-CLI/TaskTracker-CLI.csproj",
   "expectedPackageFiles": [
-    "/home/codespace/.nuget/packages/system.commandline/2.0.0/system.commandline.2.0.0.nupkg.sha512"
+    "/home/runner/.nuget/packages/system.commandline/2.0.0/system.commandline.2.0.0.nupkg.sha512"
   ],
   "logs": []
 }
