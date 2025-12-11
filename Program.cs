@@ -190,6 +190,12 @@ class Program
 
     static void AddTask(string description)
     {
+        if (string.IsNullOrWhiteSpace(description))
+        {
+            Console.Error.WriteLine("Error: Task description cannot be empty");
+            return;
+        }
+
         var tasks = LoadTasks();
         int newId = tasks.Count > 0 ? tasks.Max(t => t.Id) + 1 : 1;
         var newTask = new Task
@@ -207,6 +213,12 @@ class Program
 
     static void UpdateTask(int id, string description)
     {
+        if (string.IsNullOrWhiteSpace(description))
+        {
+            Console.Error.WriteLine("Error: Task description cannot be empty");
+            return;
+        }
+
         var tasks = LoadTasks();
         var task = tasks.FirstOrDefault(t => t.Id == id);
         if (task == null)
