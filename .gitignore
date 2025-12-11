@@ -60,3 +60,6 @@ artifacts/
 *.pidb
 *.svclog
 *.scc
+
+# Task Tracker data files
+tasks.json
