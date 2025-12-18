@@ -1,9 +1,11 @@
 namespace TaskTracker.Commands
 {
-	public class CreateCommand{
-        public void Create(){
-            // Implementação do comando `create` vai aqui.
-            Console.WriteLine("Criando uma nova tarefa...");
+    public class CreateCommand
+    {
+        public void Create()
+        {
+            // Implementation of the `create` command goes here.
+            Console.WriteLine("Creating a new task...");
         }
     }
 }
