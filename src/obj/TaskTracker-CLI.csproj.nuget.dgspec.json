@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/TaskTracker-CLI/src/TaskTracker-CLI.csproj": {}
+    "/home/runner/work/TaskTracker-CLI/TaskTracker-CLI/src/TaskTracker-CLI.csproj": {}
   },
   "projects": {
-    "/workspaces/TaskTracker-CLI/src/TaskTracker-CLI.csproj": {
+    "/home/runner/work/TaskTracker-CLI/TaskTracker-CLI/src/TaskTracker-CLI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/TaskTracker-CLI/src/TaskTracker-CLI.csproj",
+        "projectUniqueName": "/home/runner/work/TaskTracker-CLI/TaskTracker-CLI/src/TaskTracker-CLI.csproj",
         "projectName": "task",
-        "projectPath": "/workspaces/TaskTracker-CLI/src/TaskTracker-CLI.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/TaskTracker-CLI/src/obj/",
+        "projectPath": "/home/runner/work/TaskTracker-CLI/TaskTracker-CLI/src/TaskTracker-CLI.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/home/runner/work/TaskTracker-CLI/TaskTracker-CLI/src/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "/home/runner/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -37,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -64,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.415/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,10 +1,11 @@
 namespace TaskTracker.Commands
 {
-	// Implementação do comando `update` vai aqui.
-    public class UpdateCommand{
-        public void Update(){
-            // Implementação do comando `update` vai aqui.
-            Console.WriteLine("Atualizando uma tarefa...");
+    public class UpdateCommand
+    {
+        public void Update()
+        {
+            // Implementation of the `update` command goes here.
+            Console.WriteLine("Updating a task...");
         }
     }
 }
