@@ -18,16 +18,3 @@ artifacts/
 *.user
 *.userosscache
 *.suo
-
-# Build artifacts
-*.dll
-*.exe
-*.pdb
-*.cache
-*.props
-*.targets
-*.editorconfig
-*.json
-!.github/*.json
-!src/*.csproj
-!src/TaskTracker-CLI.csproj
